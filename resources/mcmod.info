@@ -1,0 +1,16 @@
+[
+{
+  "modid": "firstmod",
+  "name": "dahpr0gam3r's first mod",
+  "description": "Its my first mod ever",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["dahpr0gam3r"],
+  "credits": "TheMchewy For the tutorial on how to make a mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
